@@ -1,0 +1,4 @@
+Bipolar
+{'Carbamazepine': {'Dosis': ['Dewasa : Dosis awal 400 mg per hari yang dibagi dalam beberapa jadwal konsumsi, Dosis perawatan 400–600 mg perhari yang dibagi dalam beberapa jadwal konsumsi, Dosis maksimal 1.600 mg per hari'], 'Cara_Konsumsi': 'Setelah makan', 'Harga': 'Rp. 35.000 (200 mg)'}}
+Gangguan Kecemasan
+{'Chlordiazepoxide': {'Dosis': ['Dewasa : 30 mg / hari'], 'Cara_Konsumsi': 'Setelah makan', 'Harga': 'Rp. 110.000'}}
